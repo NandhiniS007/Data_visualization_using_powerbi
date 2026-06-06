@@ -1,9 +1,5 @@
 ﻿# Amazon Prime Dashboard
 
-<p align="center">
-  <img src="../logo/Prime video logo.png" alt="Amazon Prime Dashboard" width="200"/>
-</p>
-
 ## 📊 Project Overview
 This project showcases a **Power BI dashboard** built on Amazon Prime streaming data.  
 It highlights trends in user engagement, content performance, and subscription growth, demonstrating how data visualization can uncover insights in the OTT (over-the-top) streaming industry.
