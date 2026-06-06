@@ -38,6 +38,7 @@ Columns include:
 ## 📚 Reference
 This dashboard was inspired and guided by the following resource:  
 - [YouTube Tutorial: Power BI Amazon Prime Dashboard](https://www.youtube.com/watch?v=_xs8XXlGQVM)
--[Dataset Link] (https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows?resource=download)
+
+-[Dataset Link]: (https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows?resource=download)
 ## 📝 Notes
 This dashboard is for **portfolio demonstration purposes** only and is not affiliated with Amazon Prime.
