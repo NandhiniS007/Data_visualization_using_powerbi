@@ -1,7 +1,7 @@
 ﻿# Amazon Prime Dashboard
 
 <p align="center">
-  <img src="../assets/amazon-prime-logo.png" alt="Amazon Prime Dashboard" width="200"/>
+  <img src="../logo/Prime video logo.png" alt="Amazon Prime Dashboard" width="200"/>
 </p>
 
 ## 📊 Project Overview
